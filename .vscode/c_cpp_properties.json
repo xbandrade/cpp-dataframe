@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Dev/vcpkg/**",
+                "D:/Dev/vcpkg/packages/**",
+                "D:/Dev/vcpkg/packages/nlohmann-json_x86-windows/include"
+            ],
+            "defines": [],
+            "compilerPath": "D:/msys2/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
